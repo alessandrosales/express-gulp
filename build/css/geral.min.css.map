@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA,KACE,WAAY,MACZ,MAAO","file":"geral.min.css","sourcesContent":["body{\n  background: black;\n  color: white;\n}"],"sourceRoot":"/source/"}
